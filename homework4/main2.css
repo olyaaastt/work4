@@ -1,0 +1,34 @@
+.head{
+    background: dodgerblue;
+    height: 50px;
+    width: 900px;
+    text-align: center;
+}
+.nav{
+    background: deepskyblue;
+    height: 50px;
+    width: 900px;
+    text-align: center;
+}
+.main{
+    background: lightskyblue;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+}
+.aside{
+    background: darkturquoise;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+.footer{
+    background: lightseagreen;
+    height: 50px;
+    width: 900px;
+    text-align: center;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+}

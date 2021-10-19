@@ -1,0 +1,46 @@
+body{
+
+    height: 600px;
+    width:490px;
+
+}
+.ooo{
+
+    width: 330px;
+    height: 150px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+.aa{
+    background: cornflowerblue;
+    height: 100px;
+    width: 485px;
+    text-align: center;
+    margin-bottom:10px;
+    margin-left: 5px;
+
+
+
+}
+.cc {
+    background: cyan;
+    height: 70px;
+    width: 100px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.hh{
+    background: aquamarine;
+    width: 170px;
+    height: 145px;
+    text-align: center;
+}
+
+.boxbh{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}

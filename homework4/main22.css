@@ -1,0 +1,25 @@
+.widgets{
+    background: royalblue;
+    width: 490px;
+    height: 200px;
+    margin: 10px;
+}
+.bigwidgets{
+    background: royalblue;
+    width: 150px;
+    height: 100px;
+    margin: 10px
+}
+.wrap
+{
+    display: flex;
+    flex-direction: row;
+
+}
+.contact{
+    background: royalblue;
+    width: 490px;
+    height: 300px;
+    margin: 10px;
+
+}

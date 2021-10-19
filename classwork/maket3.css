@@ -1,0 +1,43 @@
+body{
+    height: 600px;
+    width:600px;
+
+}
+.a{
+    background: aquamarine;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    margin:5px 5px;
+}
+.b{
+    background: aliceblue;
+    width: 379px;
+    height: 200px;
+    text-align: center;
+    margin:5px 5px;
+}
+.c{
+    background: beige;
+    width: 120px;
+    height: 185px;
+    margin:5px 5px;
+}
+.f{
+    background: blanchedalmond;
+    width: 240px;
+    height: 400px;
+
+}
+.boxC{
+    display: flex;
+    flex-direction: row;
+}
+.boxBF{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+
+

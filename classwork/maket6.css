@@ -1,0 +1,29 @@
+.home {
+    background: cornflowerblue;
+    width: 200px;
+    height: 400px;
+    margin: 10px ;
+    
+}
+.kabobs{
+    background: blue;
+    width: 420px;
+    height: 100px;
+    margin-left: 10px;
+
+}
+.boxah{
+    display: flex;
+    flex-direction: row;
+}
+.shiskabox{
+    background: cornflowerblue;
+    width: 127px;
+    height: 200px;
+    margin: 10px;
+}
+.boxsh{
+    display: flex;
+    flex-direction:row;
+
+}
