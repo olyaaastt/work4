@@ -1,0 +1,140 @@
+.block1{
+    background: #dddddd;
+
+    border: 3px black solid;
+    width: 600px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.box1{
+    background: #8c8c8c;
+    width: 100px;
+    height: 40px;
+
+    margin: 5px 5px;
+
+
+}
+
+.block2{
+    background: #dddddd;
+
+    border: 3px black solid;
+    width: 90px;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+.textbox{
+    background: #8c8c8c;
+    width: 80px;
+    height: 20px;
+    margin: 5px 5px;
+
+   
+}
+.block3{
+    background: #dddddd;
+
+    border: 3px black solid;
+    width: 504px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+     align-content: center;
+    flex-wrap: wrap;
+}
+.hugebox{
+    background: gray;
+    width: 490px;
+    height: 290px;
+     margin-top: 5px;
+
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+  .block4{
+      background: #dddddd;
+      width: 504px;
+      height: 90px;
+      border: 3px black solid;
+  }
+  .box2{
+      background: #8c8c8c;
+      height: 70px;
+      width: 105px;
+      margin: 10px 10px;
+  }
+  .block5{
+      background: #dddddd;
+
+      border: 3px black solid;
+      width: 350px;
+      display: flex;
+      justify-content:center;
+
+      flex-wrap: wrap;
+      column-gap: 20px;
+  }
+  .boxs{
+
+      background: #8c8c8c;
+      height: 70px;
+      width: 150px;
+      margin-bottom: 10px;
+      margin-top:5px;
+
+  }
+.button{
+    background: #8c8c8c;
+    height: 10px;
+    width: 50px;
+    margin-bottom: 10px;
+    margin-top:5px;
+}
+.block6{
+    background: #dddddd;
+    border: 3px black solid;
+    width: 148px;
+    height: 550px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.littlebox{
+    background: #8c8c8c;
+    height: 40px;
+    width: 100px;
+    margin-bottom: 10px;
+    margin-top:5px;
+    margin-left: 20px;
+
+
+}
+.b{
+    background: #dddddd;
+    border: 3px black solid;
+    width: 504px;
+    height: 42px;
+    display: flex;
+    justify-content: center;
+}
+.xxx{
+    background: #8c8c8c;
+    height: 10px;
+    width: 300px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.xyx{
+    background: #8c8c8c;
+    height: 10px;
+    width: 100px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}

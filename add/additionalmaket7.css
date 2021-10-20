@@ -1,0 +1,55 @@
+.headerA{
+    background: aqua;
+    width: 402px;
+    height: 50px;
+}
+.hero{
+    background: #e7bbff;
+    width: 100px;
+    height: 150px;
+
+}
+.sidebar{
+    background: greenyellow;
+    width: 100px;
+    height: 150px;
+}
+.main{
+    background: yellow;
+    width: 300px;
+    height: 200px;
+
+}
+.extra{
+    background: gray;
+    width: 300px;
+    height: 100px;
+}
+.boxboxC{
+    display: flex;
+    flex-direction: row;
+}
+.relimg{
+    background: green;
+    width: 300px;
+    height: 50px;
+
+}
+.relpost{
+    background: pink;
+    width: 100px;
+    height: 50px;
+}
+.boxboxD{
+display: flex;
+    flex-direction: row;
+}
+.footer {
+    background: orange;
+    width: 402px;
+    height: 50px;
+}
+
+.gap{
+    margin: 1px 1px 1px 1px;
+}
